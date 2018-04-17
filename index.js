@@ -7,3 +7,8 @@ function theBeatlesPlay() {
     //'Pete Best plays the worlds smallest violin'
   ];
 }
+
+function johnLennonFacts()
+{
+  return ['!'];
+}
